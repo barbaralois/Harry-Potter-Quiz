@@ -125,8 +125,6 @@ fieldset {
     width: 60%;
     min-height: 60%;
   }
-} width: 100%;
-  }
 }
 
 @media screen and (min-width: 650px) {
